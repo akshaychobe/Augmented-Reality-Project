@@ -8,9 +8,8 @@ This project aims to enhance the aesthetics of a classroom by adding digital inf
 
 This repository contains the following folders and files:
 
-* `code/`: Contains the Python code for the AR algorithm, including the Aruco marker detection, perspective transformation, and image merging.
-* `images/`: Stores the input images used for testing the AR algorithm, including the classroom image and the poster image.
-* `dataset/`: Contains the dataset used for training and testing the AR algorithm, including the Room with ArUco Markers dataset.
+* `AR_code.py`: Contains the Python code for the AR algorithm, including the Aruco marker detection, perspective transformation, and image merging.
+* `Dataset/`: Contains the dataset used for training and testing the AR algorithm, including the Room with ArUco Markers dataset.
 * `README.md`: This file, which provides an overview of the project and its components.
 
 ## Algorithm
